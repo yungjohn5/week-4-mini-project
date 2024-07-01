@@ -1,0 +1,128 @@
+
+
+div{
+    min-height: 100px;
+    /* border: 1px solid black; */
+  }
+
+  
+  .overlay{
+    position:relative;
+    top: 15px;
+
+  }
+
+  .overlay .lay h1{
+    position: absolute;
+    top: 85%;
+    left: 5%;
+    font-size: 2.7em;
+    color: white;
+    
+  }
+
+  .feedback{
+    display:inline-block;
+    min-height:290px;
+    width:300px;
+    background-color:rgba(0,0,0,0.4);
+    }
+
+
+  .con{
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .form-group{
+    margin-bottom: 20px;
+  }
+  
+  .form-control{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .bit{
+    background-color: #FFC107;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .bit:hover{
+    background-color: #FFC107;
+  }
+  
+  .Get{
+    margin-top: 40px;
+  }
+  
+  .Get p{
+    margin-bottom: 10px;
+  }
+  
+  .Get ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Get li{
+    margin-bottom: 10px;
+  }
+  
+  .Get a{
+    color: #337ab7;
+    text-decoration: none;
+  }
+  
+  .Get a:hover{
+    color: #23527c;
+  }
+
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 60px 0;
+  }
+  
+  .footer .container{
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer h3 {
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  .footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer li {
+    margin-bottom: 10px;
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #ccc;
+  }
+  
+  .footer .copyright {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  
